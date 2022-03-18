@@ -20,4 +20,5 @@ navToggle.addEventListener("click", function(){
     // links.classList.toggle("show-links");
 });
 
-//links.classList.toggle("show-links"); here toggle function adds the class if it is not present, but if the class is already present then it will remove the class.
+//links.classList.toggle("show-links"); 
+//here toggle function adds the class if it is not present, but if the class is already present then it will remove the class.
